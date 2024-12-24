@@ -1,5 +1,7 @@
+
 test
 commit test
+test conflict!
 456
 768.
 Add Line
